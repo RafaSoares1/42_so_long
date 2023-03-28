@@ -80,8 +80,6 @@ The player’s goal is to collect all collectibles present on the map then escap
 
 ![so_long](https://user-images.githubusercontent.com/103336451/228253105-d79a344a-2cae-40b5-9d7c-dcc19228d852.gif)
 
-
-
-
+## Final grade
 
 
