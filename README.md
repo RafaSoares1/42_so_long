@@ -82,4 +82,5 @@ The player’s goal is to collect all collectibles present on the map then escap
 
 ## Final grade
 
+![Screenshot 2023-04-17 at 12-04-49 Intra Projects so_long](https://user-images.githubusercontent.com/103336451/232466789-0a9d6693-8855-4088-a218-db0e36b6d007.png)
 
